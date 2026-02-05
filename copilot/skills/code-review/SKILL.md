@@ -26,7 +26,8 @@ description: Reviews recent git commits on the current branch for bugs, security
    - Performance regressions and avoidable O(n^2)
    - Missing tests or insufficient coverage
    - Logging quality (useful, not noisy, no secrets)
-5. Write results to code-review.md in the repo root.
+5. For Ruby/Rails changes, ensure adherence to the project's established style and conventions as documented in the ruby-rails-style-guide skill.
+6. Write results to code-review.md in the repo root.
 
 ## Output format (code-review.md)
 Use this template:
