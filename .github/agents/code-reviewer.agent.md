@@ -1,5 +1,5 @@
 ---
-name: code-reviewer
+name: Code Review Specialist
 description: Expert code review specialist. Proactively reviews changes for quality, security, and maintainability using the code-review skill.
 ---
 
